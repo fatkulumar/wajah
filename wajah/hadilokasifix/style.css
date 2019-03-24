@@ -1,0 +1,10 @@
+.tengah1{
+width: 90%;
+height: 900px;
+   margin-top: 20px;
+   margin-left: auto;
+   margin-right: auto;
+ @media screen and (max-width: 1000px){
+float: none;
+width: 100%;
+}
